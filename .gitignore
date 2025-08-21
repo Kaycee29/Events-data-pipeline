@@ -1,0 +1,6 @@
+infrastructure/*terraform*
+airflow/config
+airflow/logs
+airflow/plugins
+airflow/dags/_pycache_
+
